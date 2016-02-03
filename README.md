@@ -1,2 +1,2 @@
 # hello-word
-a git test
+a git test ，for first try！
